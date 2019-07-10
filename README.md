@@ -1,2 +1,2 @@
 # djangoWeatherBackend
-django写的天气接口
+django写的天气接口,天气接口使用的是聚合数据提供的api，在此将它用django包装了一遍间接通过django请求
